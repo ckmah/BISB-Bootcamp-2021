@@ -4,7 +4,7 @@
 
 Description
 
-* **Presentation Link:** https://docs.google.com/presentation/d/12TUFBNDkqOcomH3cm0ZRuu2wAuvYwNmkBpe62F4_cOI/edit?usp=sharing
+* **Presentation Link:** https://docs.google.com/presentation/d/1-RRKx2_L7jkzwvUpCZdXrWD-w1HxrQ-1LpPjQXyyTsI/edit
 
 ## Module Learning Goals
 
